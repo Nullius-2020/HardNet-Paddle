@@ -2,14 +2,14 @@
 
 PaddlePaddle version of HardNet 
 
-##Env:
+# # Env:
 
    Paddle 2.0
    
    PaddleClas 2.0
    
 
-##Code:
+# # Code:
 
 hardnet.py for training from scarch
 
@@ -17,6 +17,6 @@ hardnet68.py hardnet39ds.py hardnet68ds.py hardnet85.py for finetuning from pret
 
 
 
-##More detail:
+# # More detail:
 
 https://aistudio.baidu.com/aistudio/projectdetail/1848242
